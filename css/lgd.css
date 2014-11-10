@@ -20,8 +20,24 @@ p, li {
     color: #212121;
 }
 
+.navbar-head {
+  border-bottom: 10px solid #6b7770;
+}
+
+.localgovdigital .navbar-head {
+  border-bottom-color: #6b7770;
+}
+.localgovcamp .navbar-head {
+  border-bottom-color: #199ad2;
+}
 .makers .navbar-head {
-  border-bottom: 10px solid #199ad2;
+  border-bottom-color: #199ad2;
+}
+.ldbytes .navbar-head {
+  border-bottom-color: #d42128;
+}
+.lgvoice .navbar-head {
+  border-bottom-color: #6b4a9e;
 }
 
 .navbar-head .nav > li > a:hover,
@@ -53,13 +69,15 @@ p, li {
 }
 
 .navbar-head .nav > li > a.ldbytes:hover,
-.navbar-head .nav > li > a.ldbytes:focus
+.navbar-head .nav > li > a.ldbytes:focus,
+.ldbytes .navbar-head .nav > li.active
 {
   background: #d42128;
 }
 
 .navbar-head .nav > li > a.lgvoice:hover,
-.navbar-head .nav > li > a.lgvoice:focus
+.navbar-head .nav > li > a.lgvoice:focus,
+.lgvoice .navbar-head .nav > li.active
 {
   background: #6b4a9e;
 }
