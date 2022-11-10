@@ -1,0 +1,60 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: LocalGov Digital
+# description: >- # this means to ignore newlines until "baseurl:"
+  
+timezone: Europe/London
+baseurl: 
+url: https://localgov.digital
+twitter_username: LocalGovDigital
+github_username:  LocalGovDigital
+analytics: 
+locale: en
+paginate: 10
+safe: true
+lsi: false
+highlighter: rouge
+markdown: kramdown
+plugins:
+- jekyll-feed
+- jekyll-redirect-from
+- jekyll-seo-tag
+- jekyll-sitemap
+kramdown:
+  auto_ids: true,
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: true
+coderay:
+  coderay_wrap: div
+  coderay_line_numbers: ''
+  coderay_line_numbers_start: 1
+  coderay_tab_width: 4
+  coderay_bold_every: 10
+  coderay_css: style
+sass:
+  style: compressed
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+exclude:
+- compile.sh
+- CONTRIBUTING.md
+- Gemfile
+- Gemfile.lock
+- Makefile
+- lint.go
+- README.md
+- tools
+- vendor
+- CNAME
