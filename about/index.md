@@ -16,6 +16,7 @@ Our belief is that an overarching and fundamental principle is that local govern
 - Matt Gratton
 - Lucy Knight
 - Julia McGinley
+- Phil Rumens
 - Dale Shepherd
 
 You can get in touch with us using our contact form or tweeting @LocalGovDigital.
