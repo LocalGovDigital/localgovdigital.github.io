@@ -3,7 +3,7 @@ layout: page
 title: Disciplinary procedure
 ---
 
-# Introduction
+## Introduction
 
 The purpose of this Disciplinary Procedure is to help and encourage all members to achieve and maintain required standards of conduct. The aim is also to ensure that Localgov Digital's services and activities are maintained and effective while all members are treated fairly and equitably.
 
@@ -17,13 +17,13 @@ No disciplinary action will be taken until a case has been thoroughly investigat
 
 The procedure may be implemented at any stage if the alleged misconduct or poor performance warrants such action.
 
-# Who is authorised to take disciplinary action?
+## Who is authorised to take disciplinary action?
 
 Any member of Localgov Digital may challenge perceived misconduct in another member, and bring it to the attention of their local Peer Group Leader or any member of the Steering Group.
 
 Where an investigation is required and the disciplinary procedure is invoked, the Chair shall appoint a panel of Steering Group members including (where possible) one person from each membership group category. The panel **must** contain one person from the same membership category as the member accused of misconduct. The panel will appoint one of their number as a temporary Chair for the duration of the investigation and disciplinary procedure.
 
-# What is gross misconduct?
+## What is gross misconduct?
 
 Gross misconduct is defined as misconduct serious enough to destroy the membership contract between Localgov Digital and the member which makes further relationship and trust impossible. Gross misconduct is normally restricted to serious offences. The principal reasons for summary revocation of membership could include but are not limited to:
 
@@ -41,13 +41,13 @@ Gross misconduct is defined as misconduct serious enough to destroy the membersh
 - deliberately accessing internet sites containing pornographic, offensive or obscene material;
 - persistent alcohol or drug abuse;
 - serious or persistent IT misuse:
-- providing false information on a membership application form.
+- providing false information on a membership application form
 
-# The procedure
+## The procedure
 
 If informal action fails to achieve the required improvement in performance or behaviour, then this procedure is followed. This procedure applies to all members.
 
-## Invitation to a Disciplinary Meeting
+### Invitation to a Disciplinary Meeting
 
 Following an investigation the member should, without unavoidable delay, be given a letter detailing the allegation, the possible consequences and inviting them to a disciplinary meeting.
 
@@ -59,7 +59,7 @@ It will be unusual for witnesses to give oral evidence at a disciplinary hearing
 
 The notification letter should also explain the possible consequences such as evocation of membership.
 
-## Disciplinary Meeting
+### Disciplinary Meeting
 
 Where possible, a note-taker, who must be uninvolved in the case, will take down a record of the meeting.
 
@@ -77,11 +77,11 @@ If this is the case, when they are considering appropriate disciplinary action, 
 
 The Chair shall give the member written confirmation of the decision normally within five working days of the meeting. This will include notifying the member of her/his right of appeal and the procedure to be followed.
 
-## Disciplinary Action
+### Disciplinary Action
 
 If following the disciplinary meeting it is decided to take action, one of the sanctions below may be applied.
 
-### Stage 1 – Written Warning
+#### Stage 1 – Written Warning
 
 If conduct does not meet acceptable standards the member will normally be given a written warning by his/her supervisor/line manager. S/he will be advised of the reason for the warning, that it is the first stage of the disciplinary procedure and of their right of appeal. A copy of this written warning detailing the complaint; the change in behaviour required; and dates for review will be kept in the member’s personal file but will be disregarded for disciplinary purposes after a specified period.
 
@@ -89,11 +89,11 @@ The member should be informed in writing of any decision on whether disciplinary
 
 If the decision is to be revocation of membership, the member should be notified as quickly as possible, explaining the reasons for the revocation of membership and the date when the membership will end.
 
-### Stage 2 – Revocation of membership
+#### Stage 2 – Revocation of membership
 
 If conduct is still unsatisfactory and the member fails to reach the prescribed standards, or if the offence constitutes gross misconduct, revocation of membership will normally result. The member will be provided as soon as reasonably practicable with written reasons for revocation of membership, the date on which his/her membership will terminate and be advised of the right of appeal.
 
-## Appeal
+### Appeal
 
 A member may appeal against the decisions of the disciplinary meeting taken under this procedure to the Chair panel, or if the Chair has already been involved in an earlier stage of the procedure, to the Chair of LocalGov Digital.
 

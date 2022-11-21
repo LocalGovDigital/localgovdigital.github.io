@@ -5,9 +5,7 @@ title: Membership
 
 LocalGov Digital is a network of members. Our purpose is to provide local government with a voice, improve standards in the delivery of digital services and provide opportunities to explore new ideas, learn and collaborate.
 
-<a class="btn btn-primary btn-lg" href="https://docs.google.com/forms/d/e/1FAIpQLSfRzav5d-2uDezASj8WSkCfEE2XBKjtleDCmdfW0gMZuJg70g/viewform" role="button">Apply for membership <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16">
-  <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z"/>
-</svg></a>
+<a class="btn btn-primary btn-lg" href="https://docs.google.com/forms/d/e/1FAIpQLSfRzav5d-2uDezASj8WSkCfEE2XBKjtleDCmdfW0gMZuJg70g/viewform" role="button">Apply for membership <i class="bi bi-caret-right-fill"></i></a>
 
 Membership requests are collected using a Google Form.
 
