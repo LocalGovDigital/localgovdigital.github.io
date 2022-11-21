@@ -43,6 +43,8 @@ Gross misconduct is defined as misconduct serious enough to destroy the membersh
 - serious or persistent IT misuse:
 - providing false information on a membership application form
 
+
+
 ## The procedure
 
 If informal action fails to achieve the required improvement in performance or behaviour, then this procedure is followed. This procedure applies to all members.
