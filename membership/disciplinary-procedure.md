@@ -28,14 +28,14 @@ Where an investigation is required and the disciplinary procedure is invoked, th
 Gross misconduct is defined as misconduct serious enough to destroy the membership contract between Localgov Digital and the member which makes further relationship and trust impossible. Gross misconduct is normally restricted to serious offences. The principal reasons for summary revocation of membership could include but are not limited to:
 
 - physical assault by an member on any other person;
-- theft, misappropriation or unlawful destruction of property: Localgov Digital’s, members’ or others’;
+- theft, misappropriation or unlawful destruction of property: Localgov Digital's, members' or others';
 - the giving or receiving of bribes or unauthorised gifts;
 - serious infringement of safety rules or negligence which causes unacceptable loss, damage or injury;
 - supplying security access codes to any unauthorised person;
 - unauthorised disclosure of information or misuse of trust of a serious nature;
 - making malicious or unfounded allegations of a serious nature;
 - deliberate falsification of any documents or claims, including time sheets, overtime or expense forms;
-- misconduct at work or away from work of such a serious nature as to bring into disrepute either the member’s position or Localgov Digital;
+- misconduct at work or away from work of such a serious nature as to bring into disrepute either the member's position or Localgov Digital;
 - serious discrimination relating to a protected characteristic (age, disability, gender reassignment, marriage and civil partnership, pregnancy and maternity, race, religion or belief, sex and sexual orientation);
 - harassment of a serious nature;
 - deliberately accessing internet sites containing pornographic, offensive or obscene material;
@@ -45,11 +45,11 @@ Gross misconduct is defined as misconduct serious enough to destroy the membersh
 
 
 
-## The procedure
+## The procedure
 
 If informal action fails to achieve the required improvement in performance or behaviour, then this procedure is followed. This procedure applies to all members.
 
-### Invitation to a Disciplinary Meeting
+### Invitation to a Disciplinary Meeting
 
 Following an investigation the member should, without unavoidable delay, be given a letter detailing the allegation, the possible consequences and inviting them to a disciplinary meeting.
 
@@ -61,7 +61,7 @@ It will be unusual for witnesses to give oral evidence at a disciplinary hearing
 
 The notification letter should also explain the possible consequences such as evocation of membership.
 
-### Disciplinary Meeting
+### Disciplinary Meeting
 
 Where possible, a note-taker, who must be uninvolved in the case, will take down a record of the meeting.
 
@@ -75,7 +75,7 @@ The Chair will summarise the main points of the discussion and ask the member if
 
 The Chair will then consider the details heard in private. S/he must decide whether the case against the member has been established on the balance of probabilities, i.e. whether misconduct is confirmed.
 
-If this is the case, when they are considering appropriate disciplinary action, s/he should also consider any special, mitigating circumstances, the member’s previous record, how Localgov Digital has dealt with similar cases in the past and whether the proposed action is reasonable in view of all the circumstances.
+If this is the case, when they are considering appropriate disciplinary action, s/he should also consider any special, mitigating circumstances, the member's previous record, how Localgov Digital has dealt with similar cases in the past and whether the proposed action is reasonable in view of all the circumstances.
 
 The Chair shall give the member written confirmation of the decision normally within five working days of the meeting. This will include notifying the member of her/his right of appeal and the procedure to be followed.
 
@@ -83,9 +83,9 @@ The Chair shall give the member written confirmation of the decision normally wi
 
 If following the disciplinary meeting it is decided to take action, one of the sanctions below may be applied.
 
-#### Stage 1 – Written Warning
+#### Stage 1 – Written Warning
 
-If conduct does not meet acceptable standards the member will normally be given a written warning by his/her supervisor/line manager. S/he will be advised of the reason for the warning, that it is the first stage of the disciplinary procedure and of their right of appeal. A copy of this written warning detailing the complaint; the change in behaviour required; and dates for review will be kept in the member’s personal file but will be disregarded for disciplinary purposes after a specified period.
+If conduct does not meet acceptable standards the member will normally be given a written warning by his/her supervisor/line manager. S/he will be advised of the reason for the warning, that it is the first stage of the disciplinary procedure and of their right of appeal. A copy of this written warning detailing the complaint; the change in behaviour required; and dates for review will be kept in the member's personal file but will be disregarded for disciplinary purposes after a specified period.
 
 The member should be informed in writing of any decision on whether disciplinary action is appropriate and how long the penalty will last, the improvement expected, the time period for improvement, and the procedure and time limits for appeal.
 
@@ -95,7 +95,7 @@ If the decision is to be revocation of membership, the member should be notified
 
 If conduct is still unsatisfactory and the member fails to reach the prescribed standards, or if the offence constitutes gross misconduct, revocation of membership will normally result. The member will be provided as soon as reasonably practicable with written reasons for revocation of membership, the date on which his/her membership will terminate and be advised of the right of appeal.
 
-### Appeal
+### Appeal
 
 A member may appeal against the decisions of the disciplinary meeting taken under this procedure to the Chair panel, or if the Chair has already been involved in an earlier stage of the procedure, to the Chair of LocalGov Digital.
 

@@ -7,22 +7,24 @@ layout: compress
 {% include head.html %}
 <body class="{{ layout.bodyClass }} {{ page.bodyClass }}">
   {% include header.html %}
-  <div class="py-1 mb-4 bg-light border-top border-danger border-5">
-    <div class="container-xxl mt-2">
-      <nav aria-label="breadcrumb">
-        <ol class="breadcrumb">
-          <li class="breadcrumb-item"><a href="{{ "/" | prepend: site.baseurl }}">{{ site.title }}</a></li>
-          <li class="breadcrumb-item active" aria-current="page">{{ page.title }}</li>
-        </ol>
-      </nav>
+  <div class="mb-5 border-top border-danger border-5">
+    <div class="mt-1 pt-3 pb-2 bg-dark" style="background-color: #474747 !important;">
+      <div class="container-xxl mt-2">
+        <nav aria-label="breadcrumb">
+          <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="{{ "/" | prepend: site.baseurl }}">{{ site.title }}</a></li>
+            <li class="breadcrumb-item text-light active" aria-current="page">{{ page.title }}</li>
+          </ol>
+        </nav>
+      </div>
     </div>
   </div>
   <div class="container-xxl">
-    <main id="main" class="col-8">
+    <main id="main" class="col-md-8">
       <h1>{{ page.title }}</h1>
       {{ content }}
     </main>
-    <aside class="col-4">
+    <aside class="col-md-4">
 
     </aside>
   </div>

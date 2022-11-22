@@ -40,7 +40,7 @@ Harassment includes but is not limited to: offensive verbal or written comments 
 
 If anyone engages in harassing behavior, the organisers may take any action they deem appropriate, including warning the offender or expulsion from LocalGov Digital network activities, events, and digital forums. Anyone asked to stop any harrassing behaviour is expected to comply immediately.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the event facilitation team or forum administrator immediately. Facilitators can be identified as they’ll be wearing branded clothing and/or badges. You can contact them at admin@localgov.digital. Event facilitators or forum administrators will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the event facilitation team or forum administrator immediately. Facilitators can be identified as they'll be wearing branded clothing and/or badges. You can contact them at admin@localgov.digital. Event facilitators or forum administrators will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event.
 
 If you cannot reach an event organizer or forum administrator and/or it is an emergency, please call 999 and/or remove yourself from the situation.
 

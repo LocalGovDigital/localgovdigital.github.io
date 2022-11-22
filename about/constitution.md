@@ -37,7 +37,7 @@ In order to achieve its aims the Group may:
 - General membership of the Group shall be open to any person over 18 who works in or around local government and who is interested in helping the Group to achieve its aims, willing to abide by our code of conduct of the Group and willing to pay any applicable subscription agreed by the Steering Group. This includes any person:
   - directly employed by or a Member of a local authority, or another public sector organisation involved in local public service delivery;
   - employed by an organisation delivering services for public good with a clear social purpose, including housing associations, charities, and community and voluntary organisations;
-  - employed by organisations delivering services contracted out by a local authority, where the person’s substantive role is to deliver that service;
+  - employed by organisations delivering services contracted out by a local authority, where the person's substantive role is to deliver that service;
   - working as a self-employed interim or contracted member of staff at one or more local authorities or other organisation as described above.
 - Membership shall be available to anyone without regard to gender, race, ethnicity, nationality, disability, sexual preference, religion or belief.
 - Every individual member shall have one vote at General Meetings.
@@ -46,7 +46,7 @@ In order to achieve its aims the Group may:
 - Members will be required to reconfirm membership annually at the beginning of the financial year
 
 ## 5 Management
-- The Group shall be administered by a Steering Group of members elected at the Group’s Annual General Meeting (AGM).
+- The Group shall be administered by a Steering Group of members elected at the Group's Annual General Meeting (AGM).
 - The Officers of the Steering Group shall be:
   - the Chair
   - the Vice Chair
@@ -99,16 +99,16 @@ In order to achieve its aims the Group may:
 ## 8 Annual General Meeting
 
 - The Group shall hold an Annual General Meeting (A.G.M.) in the month of September.
-- All members shall be given at least fourteen days’ notice of the A.G.M. and shall be entitled to attend and vote (in-person or remotely). The quorum for an AGM shall be 10 members.
+- All members shall be given at least fourteen days' notice of the A.G.M. and shall be entitled to attend and vote (in-person or remotely). The quorum for an AGM shall be 10 members.
 - The business of the A.G.M. shall include:
-  - receiving a report from the Chair on the Group’s activities over the year
+  - receiving a report from the Chair on the Group's activities over the year
   - receiving a report from the Treasurer on the finances of the Group
   - electing a new Management Committee and
   - considering any other matter as may be decided.
 
 ## 9 Special General Meeting
 
-A Special General Meeting may be called by the Steering Group or by any 10 members to discuss an urgent matter. The Chair shall give all members fourteen days’ notice of any Special General Meeting together with notice of the business to be discussed. All members shall be entitled to attend and vote. Only the business specified in the notice for the meeting shall be discussed at the Special General Meeting.
+A Special General Meeting may be called by the Steering Group or by any 10 members to discuss an urgent matter. The Chair shall give all members fourteen days' notice of any Special General Meeting together with notice of the business to be discussed. All members shall be entitled to attend and vote. Only the business specified in the notice for the meeting shall be discussed at the Special General Meeting.
 
 ## 10 Alterations to the Constitution
 Any changes to this Constitution must be agreed by at least two-thirds of those members present and voting at any General Meeting.
