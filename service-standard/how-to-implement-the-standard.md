@@ -1,6 +1,7 @@
 ---
 layout: page
 title: How to implement the Local Government Digital Service Standard
+order: 20
 ---
 
 The local government digital service standard will mean something different in each local authority. Is it a minimum acceptable requirement, or an aspiration for the most prominent digital services? In the same fashion, how to adopt it and the complexities involved, will differ between councils.

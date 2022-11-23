@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Why we created the standard
+order: 10
 ---
 
 Many of the advantages of having a Service Standard that apply to central government also apply to local government;

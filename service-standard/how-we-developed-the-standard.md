@@ -1,6 +1,7 @@
 ---
 layout: page
 title: How we developed the standard
+order: 30
 ---
 
 Over 60 councils have input into the Standard so far

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Who's signed up to the Local Government Digital Service Standard
+order: 40
 ---
 
 The [Local Government Digital Service Standard](/service-standard) suggests a common approach for local authorities to deliver good quality, user centered, value for money digital services.
