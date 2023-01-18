@@ -58,3 +58,5 @@ exclude:
 - tools
 - vendor
 - CNAME
+include:
+- _headers
