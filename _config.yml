@@ -58,5 +58,6 @@ exclude:
 - tools
 - vendor
 - CNAME
+- oldsite
 include:
 - _headers

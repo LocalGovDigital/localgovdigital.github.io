@@ -1,0 +1,32 @@
+---
+title: "LocalGovCamp"
+date: "2017-05-12"
+---
+
+![localgovcamp logo](images/Camp_Logo.png)
+
+LocalGovCamp was [first held in 2009](https://localgov.digital/events/localgovcamp/localgovcamp-2009) and [LocalGovCamp 2012](https://localgov.digital/events/localgovcamp/lgc12) helped create LocalGov Digital. In 2014 the event was extended to two days since then and has been organised by LocalGov Digital.
+
+It's been described as a festival for local government, and over the years has been attended by some of the most innovative and influential people in local government digital.
+
+![LocalGovCamp 2016 Session Grid](images/COsYiXHWIAAh6OG-225x300.jpg) LocalGovCamp is back for 2019 and is returning to Birmingham on 15th of November.
+
+[Find out more about LocalGovCamp 2019](https://localgov.digital/events/localgovcamp/lgc2019)
+
+## What's an unconference?
+
+An unconference is a 'participant-driven' meeting, where everyone attending has the option of pitching a topic for discussion or actively taking part in sessions. This means the agenda is decided on the day by participants.
+
+## Who should attend?
+
+![](images/img_20150912_102731-300x225.jpg)Anyone and everyone who is involved in local government – whether it's part of your job description to create and deliver digital services, you're working to transform the way things are done in a service area, you're a senior leader or an elected member your voice and experience is what makes LocalGovCamp so important and useful.
+
+But we can't work in isolation so community, third sector, activists and citizens are also welcome.
+
+There will also be tickets available to freelancers and private sector suppliers, and people who don't think they fit into any of these categories but are passionate and interested in local government.
+
+LocalGovCamp often has a digital focus but it is not a tech event - we believe that digital transformation is mostly about culture change and that technology has an enabling role in that. Whether you're involved in digital or not, if you care about public services then LocalGovCamp is the event for you.
+
+## Can I get involved to help make it happen?
+
+Yes! If you'd like to sponsor the event then please contact [Nick Hill](mailto:nick@publicsectorforums.co.uk) to discuss options or if you'd like to be a CampMaker and offer voluntary help in the run up or during events then tweet 'I'm in' to [@localgovcamp](http://twitter.com/localgovcamp).

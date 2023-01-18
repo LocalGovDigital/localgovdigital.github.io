@@ -20,7 +20,7 @@ The pitch was simple: the Service Standard provided an objective measure to ensu
 
 Getting people to agree to governance in a local authority setting isn't one of life's harder challenges. Aligning colleagues around a lengthy, challenging statement containing technical jargon? Altogether harder.
 
-Buckinghamshire County Council's digital team worked with their ‘digital champions' – leaders across the organisation, responsible for co-ordinating the service. The Cabinet Office Digital Service Standard was their starting point. They worked through each point in turn, to understand it, discuss it, and ask whether it should apply to us. The exercise threw up some useful questions: particularly about at what point you should engage suppliers. It ensured that the Standard wasn't being imposed by the digital team, but the work of many contributors.
+Buckinghamshire County Council's digital team worked with their 'digital champions' – leaders across the organisation, responsible for co-ordinating the service. The Cabinet Office Digital Service Standard was their starting point. They worked through each point in turn, to understand it, discuss it, and ask whether it should apply to us. The exercise threw up some useful questions: particularly about at what point you should engage suppliers. It ensured that the Standard wasn't being imposed by the digital team, but the work of many contributors.
 
 ## 4 - Keep it simple
 
