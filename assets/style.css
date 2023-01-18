@@ -3,3 +3,18 @@ p { line-height: 1.6rem; }
 h1, h2, h3, h4, h5, h6 { color: #474747; }
 
 .pipeline #main img { border: 1px solid #565656; box-shadow: 5px 5px 5px #ccc; }
+
+a { color: #0073b9; text-decoration: none; }
+a:hover { text-decoration: underline; }
+a.btn:hover,
+a.nav-link:hover { text-decoration: none; }
+
+.breadcrumb-item a { color: #fff; text-decoration: none; 
+    border-bottom: 2px solid #fff; }
+.breadcrumb-item a:hover { color: #fff; text-decoration: none; border-bottom: none; }
+
+blockquote {
+    border-left: 5px solid #d5d5d5;
+    padding: 4% 5% 2% 5%;
+    color: #565656;
+}
