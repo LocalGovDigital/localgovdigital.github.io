@@ -1,6 +1,6 @@
 ---
-title: "Recent service standard assessments"
-date: "2018-08-29"
+layout: page
+title: Recent service standard assessments
 ---
 
 If you have a service standard assessment you would like shared on this page, please [get in touch](https://localgov.digital/about/contact).
