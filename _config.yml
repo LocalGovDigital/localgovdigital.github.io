@@ -17,7 +17,6 @@ baseurl:
 url: https://localgov.digital
 twitter_username: LocalGovDigital
 github_username:  LocalGovDigital
-analytics: 
 locale: en
 paginate: 10
 safe: true
