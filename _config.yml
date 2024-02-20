@@ -11,7 +11,6 @@
 # Site settings
 title: LocalGov Digital
 description: 
-repo_info: 
 # description: >- # this means to ignore newlines until "baseurl:"
   
 timezone: Europe/London
